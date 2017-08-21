@@ -20,3 +20,6 @@ De que modo o controle de versão pode dar a você mais segurança para fazer alter
 
 Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
 -Para trabalhos futuros...
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+-
