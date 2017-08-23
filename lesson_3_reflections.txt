@@ -1,1 +1,2 @@
-Quando manter um repositório local ao invés de manter um repositório remoto?
+﻿Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+-Quando estiver trabalhando com várias pessoas ao mesmos tempo em um projeto
