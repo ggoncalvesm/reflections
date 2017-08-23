@@ -1,0 +1,1 @@
+Quando manter um repositório local ao invés de manter um repositório remoto?
