@@ -22,4 +22,4 @@ Agora que você já configurou a sua área de trabalho, você quer usar o Git para q
 -Para trabalhos futuros...
 
 Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
--
+-Adicionei alterações
